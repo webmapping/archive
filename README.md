@@ -1,8 +1,9 @@
-# Webmapping course 2022
+# Webmapping courses
 
-<https://webmapping.github.io>
+current: <https://webmapping.github.io>
 
 ### previous courses
+* <https://webmapping22s.github.io>
 * <https://webmapping21s.github.io>
 * <https://webmapping20s.github.io>
 * <https://webmapping19s.github.io>
