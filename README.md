@@ -2,7 +2,9 @@
 
 current: <https://webmapping.github.io>
 
-### previous courses
+## previous courses
+
+* <https://webmapping23s.github.io>
 * <https://webmapping22s.github.io>
 * <https://webmapping21s.github.io>
 * <https://webmapping20s.github.io>
